@@ -1,9 +1,9 @@
 
 # Hi, I'm Zoe! 👋
 
+![alt text](https://github.com/zkrucky/zkrucky/blob/main/images/octocat.png)
   
 ## 🚀 About Me
-I'm a full stack developer...
 
   
 ## 🛠 Skills
